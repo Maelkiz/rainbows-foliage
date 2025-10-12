@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "biomeswevegone:block/white_sakura_leaves",
+    "bushy": "biomeswevegone:block/white_sakura_leaves_bushy"
+  }
+}

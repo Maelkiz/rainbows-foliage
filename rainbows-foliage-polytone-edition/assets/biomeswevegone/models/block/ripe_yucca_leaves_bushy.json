@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_leaves_overlay",
+  "textures": {
+    "all": "biomeswevegone:block/ripe_yucca_leaves",
+    "bushy": "biomeswevegone:block/ripe_yucca_leaves_bushy",
+    "overlay": "biomeswevegone:block/ripe_yucca_leaves_overlay_bushy"
+  }
+}

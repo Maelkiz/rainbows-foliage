@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "biomeswevegone:block/ripe_baobab_leaves",
+    "bushy": "biomeswevegone:block/ripe_baobab_leaves_bushy"
+  }
+}

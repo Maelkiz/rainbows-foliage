@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "biomeswevegone:block/skyris/leaves",
+    "bushy": "biomeswevegone:block/skyris/leaves_bushy"
+  }
+}

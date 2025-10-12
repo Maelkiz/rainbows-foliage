@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "biomeswevegone:block/rainbow_eucalyptus/leaves",
+    "bushy": "biomeswevegone:block/rainbow_eucalyptus/leaves_bushy"
+  }
+}

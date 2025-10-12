@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "biomeswevegone:block/firecracker_leaves",
+    "bushy": "biomeswevegone:block/firecracker_leaves_bushy"
+  }
+}

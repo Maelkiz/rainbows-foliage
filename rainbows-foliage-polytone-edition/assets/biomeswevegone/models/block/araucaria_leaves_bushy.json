@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "biomeswevegone:block/araucaria_leaves",
+    "bushy": "biomeswevegone:block/araucaria_leaves_bushy"
+  }
+}

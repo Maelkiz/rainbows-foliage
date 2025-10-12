@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "biomeswevegone:block/orchard_leaves",
+    "bushy": "biomeswevegone:block/orchard_leaves_bushy"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "biomeswevegone:block/brown_zelkova_leaves",
+    "bushy": "biomeswevegone:block/brown_zelkova_leaves_bushy"
+  }
+}
