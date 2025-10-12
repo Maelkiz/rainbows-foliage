@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_leaves",
-  "textures": {
-    "all": "regions_unexplored:block/silver_birch_leaves",
-    "bushy": "regions_unexplored:block/silver_birch_leaves_bushy",
-    "particle": "regions_unexplored:block/silver_birch_leaves"
-  }
-}
