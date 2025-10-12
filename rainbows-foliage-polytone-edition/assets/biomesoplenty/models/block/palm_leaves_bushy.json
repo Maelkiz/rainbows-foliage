@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "biomesoplenty:block/palm_leaves",
+    "bushy": "biomesoplenty:block/palm_leaves_bushy"
+  }
+}
