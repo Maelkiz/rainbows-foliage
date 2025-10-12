@@ -1,0 +1,4 @@
+{
+  "parent": "block/template_leaves/up_down_z_40",
+  "textures": {"all": "regions_unexplored:block/eucalyptus_leaves_bushy"}
+}

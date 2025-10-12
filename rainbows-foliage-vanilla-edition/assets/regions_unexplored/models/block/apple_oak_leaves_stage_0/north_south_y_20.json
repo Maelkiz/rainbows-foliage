@@ -1,0 +1,4 @@
+{
+  "parent": "block/template_leaves/north_south_y_20",
+  "textures": {"all": "regions_unexplored:block/apple_oak_leaves_stage_0_bushy"}
+}

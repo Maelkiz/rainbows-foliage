@@ -1,0 +1,4 @@
+{
+  "parent": "block/template_leaves_no_tint/east_west_z_15",
+  "textures": {"all": "regions_unexplored:block/flowering_leaves_flower_bushy"}
+}

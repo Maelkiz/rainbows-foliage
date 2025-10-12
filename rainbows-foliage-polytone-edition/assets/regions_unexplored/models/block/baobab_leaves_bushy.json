@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_leaves",
+  "textures": {
+    "all": "regions_unexplored:block/baobab_leaves",
+    "bushy": "regions_unexplored:block/baobab_leaves_bushy",
+    "particle": "regions_unexplored:block/baobab_leaves"
+  }
+}

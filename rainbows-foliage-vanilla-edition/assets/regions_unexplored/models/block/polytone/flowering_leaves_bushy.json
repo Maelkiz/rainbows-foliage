@@ -1,0 +1,10 @@
+{
+  "parent": "regions_unexplored:block/two_layer_leaves",
+  "textures": {
+    "all": "regions_unexplored:block/flowering_leaves_flower",
+    "bushy": "minecraft:block/oak_leaves_bushy",
+    "overlay": "regions_unexplored:block/flowering_leaves_flower_bushy",
+    "particle": "block/oak_leaves"
+  },
+  "render_type": "cutout"
+}

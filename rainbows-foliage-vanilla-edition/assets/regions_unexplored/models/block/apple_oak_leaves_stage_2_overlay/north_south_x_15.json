@@ -1,0 +1,4 @@
+{
+  "parent": "block/template_leaves_no_tint/north_south_x_15",
+  "textures": {"all": "regions_unexplored:block/apple_oak_leaves_stage_2_overlay_bushy"}
+}

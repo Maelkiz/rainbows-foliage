@@ -1,0 +1,4 @@
+{
+  "parent": "block/template_leaves/north_south_x_15",
+  "textures": {"all": "regions_unexplored:block/enchanted_birch_leaves_bushy"}
+}

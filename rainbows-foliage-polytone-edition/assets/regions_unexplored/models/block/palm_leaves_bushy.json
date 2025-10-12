@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_leaves",
+  "textures": {
+    "all": "regions_unexplored:block/palm_leaves_side",
+    "bushy": "regions_unexplored:block/palm_leaves_bushy"
+  }
+}

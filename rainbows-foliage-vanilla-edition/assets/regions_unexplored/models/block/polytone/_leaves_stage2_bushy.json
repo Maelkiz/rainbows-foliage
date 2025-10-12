@@ -1,0 +1,9 @@
+{
+  "parent": "regions_unexplored:block/two_layer_leaves",
+  "textures": {
+    "1": "regions_unexplored:block/apple_oak_leaves_stage_2",
+    "bushy": "regions_unexplored:block/apple_oak_leaves_stage_2_bushy",
+    "overlay": "regions_unexplored:block/apple_oak_leaves_stage_2_overlay_bushy",
+    "particle": "block/oak_leaves"
+  }
+}

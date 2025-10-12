@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_leaves",
+  "textures": {
+    "all": "regions_unexplored:block/apple_oak_leaves_stage_1",
+    "bushy": "regions_unexplored:block/apple_oak_leaves_stage_1_bushy",
+    "particle": "block/oak_leaves"
+  }
+}

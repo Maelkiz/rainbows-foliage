@@ -1,0 +1,4 @@
+{
+  "parent": "block/template_leaves/up_down_z_15",
+  "textures": {"all": "regions_unexplored:block/pine_leaves_bushy"}
+}
