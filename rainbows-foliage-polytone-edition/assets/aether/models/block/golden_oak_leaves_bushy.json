@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "aether:block/natural/golden_oak_leaves",
+    "bushy": "aether:block/natural/golden_oak_leaves_bushy"
+  }
+}

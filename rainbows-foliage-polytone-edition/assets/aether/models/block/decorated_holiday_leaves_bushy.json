@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "aether:block/natural/decorated_holiday_leaves",
+    "bushy": "aether:block/natural/decorated_holiday_leaves_bushy"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "aether:block/natural/crystal_fruit_leaves",
+    "bushy": "aether:block/natural/crystal_fruit_leaves_bushy"
+  }
+}
