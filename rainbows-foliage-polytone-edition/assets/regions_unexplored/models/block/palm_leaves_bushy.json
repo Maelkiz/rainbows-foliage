@@ -2,6 +2,7 @@
   "parent": "minecraft:block/template_leaves",
   "textures": {
     "all": "regions_unexplored:block/palm_leaves_side",
-    "bushy": "regions_unexplored:block/palm_leaves_bushy"
+    "bushy": "regions_unexplored:block/palm_leaves_top_bushy",
+    "side": "regions_unexplored:block/palm_leaves_side_bushy"
   }
 }
