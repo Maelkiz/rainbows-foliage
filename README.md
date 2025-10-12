@@ -1,8 +1,18 @@
 <img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/rainbows-foliage.png?raw=true" align=center alt="rainbow's foliage logo">
 
 <div align=center>
-  <a href="https://modrinth.com/resourcepack/rainbows-foliage"><img alt="polytone edition downloads" src="https://img.shields.io/modrinth/dt/rainbows-foliage?style=flat&logo=modrinth&label=polytone%20edition&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Frainbows-foliage"></a>
-  <a href="https://modrinth.com/resourcepack/rainbows-foliage-vanilla-edition"><img alt="vanilla edition downloads" src="https://img.shields.io/modrinth/dt/rainbows-foliage-vanilla-edition?style=flat&logo=modrinth&label=vanilla%20edition&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Frainbows-foliage-vanilla-edition"></a>
+  <a href="https://modrinth.com/resourcepack/rainbows-foliage"><img alt="modrinth polytone edition downloads" src="https://img.shields.io/modrinth/dt/rainbows-foliage?style=flat&logo=modrinth&label=polytone%20edition&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Frainbows-foliage"></a>
+  <a href="https://modrinth.com/resourcepack/rainbows-foliage-vanilla-edition"><img alt="modrinth vanilla edition downloads" src="https://img.shields.io/modrinth/dt/rainbows-foliage-vanilla-edition?style=flat&logo=modrinth&label=vanilla%20edition&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Frainbows-foliage-vanilla-edition"></a>
+  <a href="https://www.curseforge.com/minecraft/texture-packs/rainbows-foliage-polytone"><img alt="curseforge polytone edition downloads" src="https://img.shields.io/curseforge/dt/1363585?style=flat&logo=curseforge&label=polytone%20edition&color=F16436"></a>
+  <a href="https://www.curseforge.com/minecraft/texture-packs/rainbows-foliage-vanilla-edition"><img alt="curseforge vanilla edition downloads" src="https://img.shields.io/curseforge/dt/1363647?style=flat&logo=curseforge&label=vanilla%20edition&color=F16436"></a>
+
+  <h2><b>vanilla edition</b></h2>
+
+  <img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/fully_vanilla.png?raw=true" alt="above 1.21.5, fully vanilla"> <img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/requires_puzzle_badge.png?raw=true" alt="below 1.21.5, requires puzzle">
+
+  <h2><b>polytone edition</b></h2>
+
+  <img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/requires_polytone_badge.png?raw=true" alt="requires polytone"> <img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/mod_support_badge.png?raw=true" alt="comes with mod support">
 </div>
 
 # **rainbow's foliage**
