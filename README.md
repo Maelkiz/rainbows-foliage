@@ -8,11 +8,11 @@
 
   <h2><b>vanilla edition</b></h2>
 
-  <img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/fully_vanilla.png?raw=true" alt="above 1.21.5, fully vanilla"> <img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/requires_puzzle_badge.png?raw=true" alt="below 1.21.5, requires puzzle">
+  <img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/fully_vanilla.png?raw=true" alt="above 1.21.5, fully vanilla"> <a href="https://modrinth.com/mod/puzzle"><img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/requires_puzzle_badge.png?raw=true" alt="below 1.21.5, requires puzzle"></a>
 
   <h2><b>polytone edition</b></h2>
 
-  <img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/requires_polytone_badge.png?raw=true" alt="requires polytone"> <img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/mod_support_badge.png?raw=true" alt="comes with mod support">
+  <a href="https://modrinth.com/mod/polytone"><img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/requires_polytone_badge.png?raw=true" alt="requires polytone"></a> <img src="https://github.com/PoeticRainbow/rainbows-foliage/blob/master/gallery/mod_support_badge.png?raw=true" alt="comes with mod support">
 </div>
 
 # **rainbow's foliage**
