@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "aether_redux:block/natural/purple_glacia_leaves",
+    "bushy": "aether_redux:block/natural/purple_glacia_leaves_bushy",
+    "side": "aether_redux:block/natural/purple_glacia_leaves_snowy_bushy"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "aether_redux:block/natural/shimmering_crystal_leaves",
+    "bushy": "aether_redux:block/natural/shimmering_crystal_leaves_bushy"
+  }
+}

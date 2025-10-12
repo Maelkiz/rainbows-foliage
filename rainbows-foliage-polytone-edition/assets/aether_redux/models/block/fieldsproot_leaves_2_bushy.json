@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "aether_redux:block/natural/fieldsproot_leaves_2",
+    "bushy": "aether_redux:block/natural/fieldsproot_leaves_2_bushy"
+  }
+}
