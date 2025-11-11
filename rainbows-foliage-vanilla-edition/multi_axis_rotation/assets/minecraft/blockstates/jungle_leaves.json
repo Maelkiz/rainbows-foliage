@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/jungle/0"},
+      {"model": "block/jungle/1"},
+      {"model": "block/jungle/2"},
+      {"model": "block/jungle/3"},
+      {"model": "block/jungle/4"},
+      {"model": "block/jungle/5"},
+      {"model": "block/jungle/6"},
+      {"model": "block/jungle/7"},
+      {"model": "block/jungle/8"},
+      {"model": "block/jungle/9"},
+      {"model": "block/jungle/10"},
+      {"model": "block/jungle/11"},
+      {"model": "block/jungle/12"},
+      {"model": "block/jungle/13"},
+      {"model": "block/jungle/14"},
+      {"model": "block/jungle/15"},
+      {"model": "block/jungle/16"},
+      {"model": "block/jungle/17"},
+      {"model": "block/jungle/18"},
+      {"model": "block/jungle/19"},
+      {"model": "block/jungle/20"},
+      {"model": "block/jungle/21"},
+      {"model": "block/jungle/22"},
+      {"model": "block/jungle/23"},
+      {"model": "block/jungle/24"},
+      {"model": "block/jungle/25"},
+      {"model": "block/jungle/26"},
+      {"model": "block/jungle/27"},
+      {"model": "block/jungle/28"},
+      {"model": "block/jungle/29"},
+      {"model": "block/jungle/30"},
+      {"model": "block/jungle/31"}
+    ]
+  }
+}

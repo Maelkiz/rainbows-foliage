@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/oak/0"},
+      {"model": "block/oak/1"},
+      {"model": "block/oak/2"},
+      {"model": "block/oak/3"},
+      {"model": "block/oak/4"},
+      {"model": "block/oak/5"},
+      {"model": "block/oak/6"},
+      {"model": "block/oak/7"},
+      {"model": "block/oak/8"},
+      {"model": "block/oak/9"},
+      {"model": "block/oak/10"},
+      {"model": "block/oak/11"},
+      {"model": "block/oak/12"},
+      {"model": "block/oak/13"},
+      {"model": "block/oak/14"},
+      {"model": "block/oak/15"},
+      {"model": "block/oak/16"},
+      {"model": "block/oak/17"},
+      {"model": "block/oak/18"},
+      {"model": "block/oak/19"},
+      {"model": "block/oak/20"},
+      {"model": "block/oak/21"},
+      {"model": "block/oak/22"},
+      {"model": "block/oak/23"},
+      {"model": "block/oak/24"},
+      {"model": "block/oak/25"},
+      {"model": "block/oak/26"},
+      {"model": "block/oak/27"},
+      {"model": "block/oak/28"},
+      {"model": "block/oak/29"},
+      {"model": "block/oak/30"},
+      {"model": "block/oak/31"}
+    ]
+  }
+}

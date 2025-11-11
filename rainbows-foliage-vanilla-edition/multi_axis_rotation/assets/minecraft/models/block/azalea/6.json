@@ -1,0 +1,4 @@
+{
+  "parent": "block/template_leaves_no_tint/6",
+  "textures": {"all": "block/azalea_leaves", "bushy": "block/azalea_leaves_bushy"}
+}

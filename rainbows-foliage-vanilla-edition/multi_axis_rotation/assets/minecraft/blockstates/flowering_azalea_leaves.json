@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/flowering_azalea/0"},
+      {"model": "block/flowering_azalea/1"},
+      {"model": "block/flowering_azalea/2"},
+      {"model": "block/flowering_azalea/3"},
+      {"model": "block/flowering_azalea/4"},
+      {"model": "block/flowering_azalea/5"},
+      {"model": "block/flowering_azalea/6"},
+      {"model": "block/flowering_azalea/7"},
+      {"model": "block/flowering_azalea/8"},
+      {"model": "block/flowering_azalea/9"},
+      {"model": "block/flowering_azalea/10"},
+      {"model": "block/flowering_azalea/11"},
+      {"model": "block/flowering_azalea/12"},
+      {"model": "block/flowering_azalea/13"},
+      {"model": "block/flowering_azalea/14"},
+      {"model": "block/flowering_azalea/15"},
+      {"model": "block/flowering_azalea/16"},
+      {"model": "block/flowering_azalea/17"},
+      {"model": "block/flowering_azalea/18"},
+      {"model": "block/flowering_azalea/19"},
+      {"model": "block/flowering_azalea/20"},
+      {"model": "block/flowering_azalea/21"},
+      {"model": "block/flowering_azalea/22"},
+      {"model": "block/flowering_azalea/23"},
+      {"model": "block/flowering_azalea/24"},
+      {"model": "block/flowering_azalea/25"},
+      {"model": "block/flowering_azalea/26"},
+      {"model": "block/flowering_azalea/27"},
+      {"model": "block/flowering_azalea/28"},
+      {"model": "block/flowering_azalea/29"},
+      {"model": "block/flowering_azalea/30"},
+      {"model": "block/flowering_azalea/31"}
+    ]
+  }
+}

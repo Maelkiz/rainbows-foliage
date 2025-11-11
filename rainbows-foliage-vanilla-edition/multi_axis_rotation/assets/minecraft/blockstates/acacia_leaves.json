@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/acacia/0"},
+      {"model": "block/acacia/1"},
+      {"model": "block/acacia/2"},
+      {"model": "block/acacia/3"},
+      {"model": "block/acacia/4"},
+      {"model": "block/acacia/5"},
+      {"model": "block/acacia/6"},
+      {"model": "block/acacia/7"},
+      {"model": "block/acacia/8"},
+      {"model": "block/acacia/9"},
+      {"model": "block/acacia/10"},
+      {"model": "block/acacia/11"},
+      {"model": "block/acacia/12"},
+      {"model": "block/acacia/13"},
+      {"model": "block/acacia/14"},
+      {"model": "block/acacia/15"},
+      {"model": "block/acacia/16"},
+      {"model": "block/acacia/17"},
+      {"model": "block/acacia/18"},
+      {"model": "block/acacia/19"},
+      {"model": "block/acacia/20"},
+      {"model": "block/acacia/21"},
+      {"model": "block/acacia/22"},
+      {"model": "block/acacia/23"},
+      {"model": "block/acacia/24"},
+      {"model": "block/acacia/25"},
+      {"model": "block/acacia/26"},
+      {"model": "block/acacia/27"},
+      {"model": "block/acacia/28"},
+      {"model": "block/acacia/29"},
+      {"model": "block/acacia/30"},
+      {"model": "block/acacia/31"}
+    ]
+  }
+}

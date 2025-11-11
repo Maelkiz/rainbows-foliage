@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/azalea/0"},
+      {"model": "block/azalea/1"},
+      {"model": "block/azalea/2"},
+      {"model": "block/azalea/3"},
+      {"model": "block/azalea/4"},
+      {"model": "block/azalea/5"},
+      {"model": "block/azalea/6"},
+      {"model": "block/azalea/7"},
+      {"model": "block/azalea/8"},
+      {"model": "block/azalea/9"},
+      {"model": "block/azalea/10"},
+      {"model": "block/azalea/11"},
+      {"model": "block/azalea/12"},
+      {"model": "block/azalea/13"},
+      {"model": "block/azalea/14"},
+      {"model": "block/azalea/15"},
+      {"model": "block/azalea/16"},
+      {"model": "block/azalea/17"},
+      {"model": "block/azalea/18"},
+      {"model": "block/azalea/19"},
+      {"model": "block/azalea/20"},
+      {"model": "block/azalea/21"},
+      {"model": "block/azalea/22"},
+      {"model": "block/azalea/23"},
+      {"model": "block/azalea/24"},
+      {"model": "block/azalea/25"},
+      {"model": "block/azalea/26"},
+      {"model": "block/azalea/27"},
+      {"model": "block/azalea/28"},
+      {"model": "block/azalea/29"},
+      {"model": "block/azalea/30"},
+      {"model": "block/azalea/31"}
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/cherry/0"},
+      {"model": "block/cherry/1"},
+      {"model": "block/cherry/2"},
+      {"model": "block/cherry/3"},
+      {"model": "block/cherry/4"},
+      {"model": "block/cherry/5"},
+      {"model": "block/cherry/6"},
+      {"model": "block/cherry/7"},
+      {"model": "block/cherry/8"},
+      {"model": "block/cherry/9"},
+      {"model": "block/cherry/10"},
+      {"model": "block/cherry/11"},
+      {"model": "block/cherry/12"},
+      {"model": "block/cherry/13"},
+      {"model": "block/cherry/14"},
+      {"model": "block/cherry/15"},
+      {"model": "block/cherry/16"},
+      {"model": "block/cherry/17"},
+      {"model": "block/cherry/18"},
+      {"model": "block/cherry/19"},
+      {"model": "block/cherry/20"},
+      {"model": "block/cherry/21"},
+      {"model": "block/cherry/22"},
+      {"model": "block/cherry/23"},
+      {"model": "block/cherry/24"},
+      {"model": "block/cherry/25"},
+      {"model": "block/cherry/26"},
+      {"model": "block/cherry/27"},
+      {"model": "block/cherry/28"},
+      {"model": "block/cherry/29"},
+      {"model": "block/cherry/30"},
+      {"model": "block/cherry/31"}
+    ]
+  }
+}

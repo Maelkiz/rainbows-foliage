@@ -5,5 +5,21 @@
     "supported_formats": [16, 420],
     "min_format": 16,
     "max_format": 420
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "single_axis_rotation",
+        "formats": [16, 73],
+        "min_format": 16,
+        "max_format": 73
+      },
+      {
+        "directory": "multi_axis_rotation",
+        "formats": [74, 420],
+        "min_format": 74,
+        "max_format": 420
+      }
+    ]
   }
 }

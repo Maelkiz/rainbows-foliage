@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/spruce/0"},
+      {"model": "block/spruce/1"},
+      {"model": "block/spruce/2"},
+      {"model": "block/spruce/3"},
+      {"model": "block/spruce/4"},
+      {"model": "block/spruce/5"},
+      {"model": "block/spruce/6"},
+      {"model": "block/spruce/7"},
+      {"model": "block/spruce/8"},
+      {"model": "block/spruce/9"},
+      {"model": "block/spruce/10"},
+      {"model": "block/spruce/11"},
+      {"model": "block/spruce/12"},
+      {"model": "block/spruce/13"},
+      {"model": "block/spruce/14"},
+      {"model": "block/spruce/15"},
+      {"model": "block/spruce/16"},
+      {"model": "block/spruce/17"},
+      {"model": "block/spruce/18"},
+      {"model": "block/spruce/19"},
+      {"model": "block/spruce/20"},
+      {"model": "block/spruce/21"},
+      {"model": "block/spruce/22"},
+      {"model": "block/spruce/23"},
+      {"model": "block/spruce/24"},
+      {"model": "block/spruce/25"},
+      {"model": "block/spruce/26"},
+      {"model": "block/spruce/27"},
+      {"model": "block/spruce/28"},
+      {"model": "block/spruce/29"},
+      {"model": "block/spruce/30"},
+      {"model": "block/spruce/31"}
+    ]
+  }
+}

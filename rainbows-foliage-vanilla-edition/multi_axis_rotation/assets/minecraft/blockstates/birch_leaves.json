@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/birch/0"},
+      {"model": "block/birch/1"},
+      {"model": "block/birch/2"},
+      {"model": "block/birch/3"},
+      {"model": "block/birch/4"},
+      {"model": "block/birch/5"},
+      {"model": "block/birch/6"},
+      {"model": "block/birch/7"},
+      {"model": "block/birch/8"},
+      {"model": "block/birch/9"},
+      {"model": "block/birch/10"},
+      {"model": "block/birch/11"},
+      {"model": "block/birch/12"},
+      {"model": "block/birch/13"},
+      {"model": "block/birch/14"},
+      {"model": "block/birch/15"},
+      {"model": "block/birch/16"},
+      {"model": "block/birch/17"},
+      {"model": "block/birch/18"},
+      {"model": "block/birch/19"},
+      {"model": "block/birch/20"},
+      {"model": "block/birch/21"},
+      {"model": "block/birch/22"},
+      {"model": "block/birch/23"},
+      {"model": "block/birch/24"},
+      {"model": "block/birch/25"},
+      {"model": "block/birch/26"},
+      {"model": "block/birch/27"},
+      {"model": "block/birch/28"},
+      {"model": "block/birch/29"},
+      {"model": "block/birch/30"},
+      {"model": "block/birch/31"}
+    ]
+  }
+}
