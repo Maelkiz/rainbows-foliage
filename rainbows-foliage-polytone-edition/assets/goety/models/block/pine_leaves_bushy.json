@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "goety:block/pine_leaves",
+    "bushy": "goety:block/pine_leaves_bushy"
+  }
+}
