@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "betterend:block/cave_bush_leaves_1",
+    "bushy": "betterend:block/cave_bush_leaves_1_bushy"
+  }
+}
