@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "natures_spirit:block/part_purple_wisteria_leaves",
+    "bushy": "natures_spirit:block/part_purple_wisteria_leaves_bushy"
+  }
+}

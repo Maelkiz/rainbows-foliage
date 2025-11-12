@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "natures_spirit:block/snowy_fir_leaves",
+    "bushy": "natures_spirit:block/snowy_fir_leaves_bushy"
+  }
+}
