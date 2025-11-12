@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "goodending:block/dense_birch_leaves",
+    "bushy": "goodending:block/dense_birch_leaves_bushy"
+  }
+}
