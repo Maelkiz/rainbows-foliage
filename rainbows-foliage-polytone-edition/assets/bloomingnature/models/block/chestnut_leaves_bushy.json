@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "bloomingnature:block/chestnut_leaves",
+    "bushy": "bloomingnature:block/chestnut_leaves_bushy"
+  }
+}

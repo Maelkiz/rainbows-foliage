@@ -1,0 +1,4 @@
+{
+  "parent": "bloomingnature:block/fir_leaves_bushy",
+  "textures": {"side": "bloomingnature:block/fir_leaves_bushy_snowy"}
+}
