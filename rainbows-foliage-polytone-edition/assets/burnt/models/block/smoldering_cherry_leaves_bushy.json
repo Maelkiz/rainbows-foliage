@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "burnt:block/smoldering_cherry_leaves",
+    "bushy": "burnt:block/smoldering_cherry_leaves_bushy"
+  }
+}
