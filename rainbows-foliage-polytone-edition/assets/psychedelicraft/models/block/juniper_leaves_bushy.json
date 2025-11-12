@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "psychedelicraft:block/juniper_leaves",
+    "bushy": "psychedelicraft:block/juniper_leaves_bushy"
+  }
+}
