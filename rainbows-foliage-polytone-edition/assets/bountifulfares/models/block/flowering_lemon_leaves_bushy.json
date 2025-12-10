@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_leaves_overlay",
+  "textures": {
+    "all": "bountifulfares:block/flowering_lemon_leaves",
+    "bushy": "bountifulfares:block/lemon_leaves_bushy",
+    "overlay": "bountifulfares:block/flowering_lemon_leaves_bushy"
+  }
+}

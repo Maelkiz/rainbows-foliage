@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "bountifulfares:block/golden_apple_leaves",
+    "bushy": "bountifulfares:block/golden_apple_leaves_bushy"
+  }
+}

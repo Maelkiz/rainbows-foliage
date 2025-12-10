@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "bountifulfares:block/walnut_leaves",
+    "bushy": "bountifulfares:block/walnut_leaves_bushy"
+  }
+}
