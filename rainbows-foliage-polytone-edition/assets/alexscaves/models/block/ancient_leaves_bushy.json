@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "alexscaves:block/ancient_leaves",
+    "bushy": "alexscaves:block/ancient_leaves_bushy"
+  }
+}
