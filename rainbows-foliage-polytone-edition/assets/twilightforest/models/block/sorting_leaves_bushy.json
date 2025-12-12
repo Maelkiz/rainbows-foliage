@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "twilightforest:block/sorting_leaves",
+    "bushy": "twilightforest:block/sorting_leaves_bushy"
+  }
+}

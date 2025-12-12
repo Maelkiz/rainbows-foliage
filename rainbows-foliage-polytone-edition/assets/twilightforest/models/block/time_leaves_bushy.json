@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "twilightforest:block/time_leaves",
+    "bushy": "twilightforest:block/time_leaves_bushy"
+  }
+}
