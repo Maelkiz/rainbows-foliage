@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "chipped:block/acacia_leaves/frosted_acacia_leaves",
+    "bushy": "chipped:block/acacia_leaves/frosted_acacia_leaves_top_bushy",
+    "side": "chipped:block/acacia_leaves/frosted_acacia_leaves_bushy"
+  }
+}

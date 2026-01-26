@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "chipped:block/dark_oak_leaves/frosted_dark_oak_leaves",
+    "bushy": "chipped:block/dark_oak_leaves/frosted_dark_oak_leaves_top_bushy",
+    "side": "chipped:block/dark_oak_leaves/frosted_dark_oak_leaves_bushy"
+  }
+}

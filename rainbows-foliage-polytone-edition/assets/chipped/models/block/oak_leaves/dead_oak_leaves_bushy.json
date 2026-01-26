@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "chipped:block/oak_leaves/dead_oak_leaves",
+    "bushy": "chipped:block/oak_leaves/dead_oak_leaves_bushy"
+  }
+}

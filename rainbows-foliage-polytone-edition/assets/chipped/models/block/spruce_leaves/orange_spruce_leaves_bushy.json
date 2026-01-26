@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "chipped:block/spruce_leaves/orange_spruce_leaves",
+    "bushy": "chipped:block/spruce_leaves/orange_spruce_leaves_bushy"
+  }
+}
