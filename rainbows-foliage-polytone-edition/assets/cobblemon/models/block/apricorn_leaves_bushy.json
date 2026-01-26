@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "cobblemon:block/wood/apricorn_leaves",
+    "bushy": "cobblemon:block/wood/apricorn_leaves_bushy"
+  }
+}
