@@ -1,0 +1,1 @@
+{"parent": "block/template_leaves_overlay", "render_type": "minecraft:cutout_mipped", "textures": {"all": "atmospheric:block/flowering_morado_leaves", "overlay": "atmospheric:block/flowering_morado_leaves_overlay_bushy", "bushy": "atmospheric:block/flowering_morado_leaves_bushy"}}
