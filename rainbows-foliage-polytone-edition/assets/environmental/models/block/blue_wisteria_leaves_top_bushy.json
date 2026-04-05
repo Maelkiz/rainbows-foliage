@@ -1,0 +1,1 @@
+{"parent": "block/template_leaves", "textures": {"top": "environmental:block/wisteria_leaves", "side": "environmental:block/blue_wisteria_leaves_top_bushy", "bottom": "environmental:block/blue_wisteria_leaves", "all": "environmental:block/wisteria_leaves", "bushy": "environmental:block/wisteria_leaves_bushy"}}
